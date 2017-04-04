@@ -1,0 +1,31 @@
+body{
+background-color:Crimson;
+}
+p{
+font-family:Giddyup Std,Courier;
+color:black;
+font-size:27.5px;
+}
+h1{
+color:Purple;
+font-family:zapfino;
+}
+div{
+Color:purple;
+Height:50px;
+width:50px
+}
+td{
+Width:100px;
+Height:100px;
+color:Black;
+}
+div{
+    height:50px;
+    width:120px;
+    border-color:#6495ed;
+    background-color:#bcd2ee;
+    border-radius:5px;
+    margin:auto;
+    text-align:center;
+}
